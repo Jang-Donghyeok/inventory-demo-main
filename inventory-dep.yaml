@@ -19,7 +19,7 @@ metadata:
   name: mariadb-cm
   namespace: user1
 data:
-  DB_URL: "jdbc:mysql://mariadb.db:3306/user10"
+  DB_URL: "jdbc:mysql://mariadb.db:3306/user1"
   DB_USER: kosta
 ---
 apiVersion: v1
